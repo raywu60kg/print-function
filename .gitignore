@@ -2,3 +2,25 @@
 \.vscode/
 
 print_function/__pycache__/
+
+\.python-version
+
+build/lib/___future___/___future___\.py
+
+build/lib/___future___/__init__\.py
+
+build/lib/___future___/test\.py
+
+dist/print_function-0\.0\.3-py3-none-any\.whl
+
+dist/print-function-0\.0\.3\.tar\.gz
+
+___future___/__pycache__/___future___\.cpython-36\.pyc
+
+print_function\.egg-info/dependency_links\.txt
+
+print_function\.egg-info/PKG-INFO
+
+print_function\.egg-info/SOURCES\.txt
+
+print_function\.egg-info/top_level\.txt
