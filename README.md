@@ -23,4 +23,4 @@ b'\xe5\xa4\xa9\xe7\x8e\x89\xe8\x8a\xb1\xe8\xa5\xbf\xe7\xbe\x8e'
 '◥ ⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙ ◤ '
 ``` 
 
-The normal will be the unicode from random nonsense word and with the option  `flush=True`, it will be a tank(嬰靈戰車) help you to log things
+The normal `print` will be the unicode from random nonsense word and with the option  `flush=True`, it will be a tank(嬰靈戰車) help you to log things
