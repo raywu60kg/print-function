@@ -10,7 +10,7 @@ If we Put `from ___future___ import print` on our python script, it will overwri
 ```python
 from ___future___ import print
 print("123")
-print("attack", flush=True)
+print("BabyRage!", flush=True)
 
 # output 
 b'\xe5\xa4\xa9\xe7\x8e\x89\xe8\x8a\xb1\xe8\xa5\xbf\xe7\xbe\x8e'
