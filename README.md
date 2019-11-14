@@ -5,7 +5,7 @@ $ pip install print-function
 ```
 
 ### Usage
-If we Put `from ___future___ import print` on our python script, it will overwrite our print and become like
+If we put `from ___future___ import print` on our python script, it will overwrite our print and become like
 
 ```python
 from ___future___ import print
