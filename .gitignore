@@ -9,8 +9,8 @@ print_function/__pycache__/
 
 \dist/
 
-___future___/__pycache__/___future___\.cpython-36\.pyc
-
 \.egg-info/
 
 print_function\.egg-info/
+
+___future___/__pycache__/
