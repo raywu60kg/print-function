@@ -1,4 +1,7 @@
 # print-function
+![pypi](https://img.shields.io/pypi/v/print-function.svg)
+![downloads](https://img.shields.io/pypi/dm/print-function.svg)
+
 ### Install
 ```
 $ pip install print-function
