@@ -11,8 +11,8 @@ pytest-cov = "*"
 [packages]
 setuptools = "*"
 wheel = "*"
-twine = "*"
 tox = "*"
+twine = "==1.15.0"
 
 [requires]
 python_version = "3.6"
