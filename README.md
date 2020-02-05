@@ -2,7 +2,7 @@
 [![image](https://img.shields.io/pypi/v/print-function.svg)](https://python.org/pypi/print-function)
 [![image](https://img.shields.io/pypi/dm/print-function.svg)](https://python.org/pypi/print-function)
 [![Build Status](https://travis-ci.org/raywu60kg/print-function.svg?branch=master)](https://travis-ci.org/raywu60kg/print-function)
-<!--[![image](https://img.shields.io/pypi/pyversions/print-function.svg)](https://python.org/pypi/print-function)-->
+[![image](https://img.shields.io/pypi/pyversions/print-function.svg)](https://python.org/pypi/print-function)
 ### Install
 ```
 $ pip install print-function
