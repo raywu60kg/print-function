@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='print-function',
-      version='0.0.4',
+      version='1.0.0',
       description='Best python print function',
       url='https://github.com/raywu60kg/print-function',
       author='raywu60kg',
