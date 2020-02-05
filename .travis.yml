@@ -14,8 +14,8 @@ before_install:
 
 install:
   - echo "install"
+  - pip install --upgrade pip
   - pip install pipenv
-  - pipenv install --dev
 
 before_script:
   - echo "before_script"
