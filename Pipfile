@@ -5,10 +5,13 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
+pytest = "*"
+pytest-cov = "*"
 
 [packages]
 setuptools = "*"
 wheel = "*"
+tox = "*"
 twine = "*"
 
 [requires]
