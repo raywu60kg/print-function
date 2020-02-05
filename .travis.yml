@@ -1,0 +1,24 @@
+language: python
+
+matrix:
+  include:
+    - python: 3.5
+      env: TOXENV=py35
+    - python: 3.6
+      env: TOXENV=py36
+    - python: 3.7
+      env: TOXENV=py37
+
+before_install:
+  - echo "before_install"
+
+install:
+  - echo "install"
+  - pip install pipenv
+  - pipenv install --dev
+
+before_script:
+  - echo "before_script"
+
+script:
+  - tox
