@@ -1,0 +1,5 @@
+[run]
+include = ./___future___
+omit = 
+    *tests*
+    *__init__*

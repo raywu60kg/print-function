@@ -14,3 +14,5 @@ print_function/__pycache__/
 print_function\.egg-info/
 
 ___future___/__pycache__/
+
+\.tox/
