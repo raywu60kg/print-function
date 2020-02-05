@@ -1,6 +1,7 @@
 # print-function
 ![pypi](https://img.shields.io/pypi/v/print-function.svg)
 ![downloads](https://img.shields.io/pypi/dm/print-function.svg)
+![Build Status](https://travis-ci.org/raywu60kg/print-function.svg?branch=master)
 
 ### Install
 ```
