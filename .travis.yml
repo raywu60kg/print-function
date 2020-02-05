@@ -16,9 +16,10 @@ install:
   - echo "install"
   - pip install --upgrade pip
   - pip install pipenv
+  - pipenv install --dev --ignore-pipfile
 
 before_script:
   - echo "before_script"
 
 script:
-  - tox
+  - pipenv run tox
