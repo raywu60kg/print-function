@@ -8,4 +8,4 @@ setup(name='print-function',
       author_email='wuhaohsiang1992@gmail.com',
       packages=['___future___'],
       license="MIT",
-      python_requires="3.4*,3.5*,3.6*,3.7*,3.8*")
+      python_requires="==3.4*,==3.5*,==3.6*,==3.7*,==3.8*")
