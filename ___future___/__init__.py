@@ -42,7 +42,7 @@ def print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False):
         str_len = len(str(*objects))
         blank_str = "            "
         line_str = ""
-        for i in range(str_len):
+        for _ in range(str_len):
             line_str += "─" 
 
         pprint.pprint(blank_str + "╭" + line_str + "╮")
